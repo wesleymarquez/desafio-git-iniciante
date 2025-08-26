@@ -1,0 +1,1 @@
+o proposito desse projeto é me testar usando as  ferramentas de controle de versao para poder dominalas.
